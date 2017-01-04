@@ -1,0 +1,14 @@
+.column{
+  width: 45%;
+  float: left;
+  margin: 10px;
+}
+
+img{
+  width: 400px;
+  height: 300px;
+}
+
+h1{
+  text-align: center;
+}
